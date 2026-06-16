@@ -1,20 +1,78 @@
-# 💫 About Me:
-💫 About Me — Rino Sitanggang<br><br>🚀 Frontend Engineer with Full-Stack Awareness<br>Specializing in Flutter & React (TypeScript)<br><br>I build modern, scalable applications with a strong focus on clean architecture, performance, and user experience.<br><br>🔭 Currently working on<br>Designing and developing scalable web & mobile apps with structured architecture and maintainable code.<br><br>🤝 Open to collaborate on<br>Open-source projects and real-world products, especially in:<br><br>* Frontend (Flutter, React, TypeScript)<br>* Full-stack development (Express, Laravel)<br><br>🧠 Currently improving<br><br>* System design & architecture thinking<br>* Backend performance & API scalability<br>* Building production-ready systems<br><br>💬 Ask me about<br><br>* Frontend: Flutter, React, TypeScript, Tailwind, Zustand<br>* Backend: Express, Laravel<br>* DevOps & Tools: AWS, Docker, Grafana<br>* UI workflow: Figma, Adobe tools<br><br>⚡ Fun fact<br>I enjoy turning complex systems into simple, maintainable solutions — from UI to backend and infrastructure.<br>
+# 💫 About Me
 
+🚀 Software Engineer with a strong focus on Frontend Development and Full-Stack Application Architecture.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sitanggangrino) 
+I specialize in building scalable business applications using Flutter, React, TypeScript, Laravel, and Livewire. My experience includes developing multi-tenant B2B retail platforms, business management systems, and enterprise workflows with an emphasis on maintainability, performance, and user experience.
 
-# 💻 Tech Stack:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rinoyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Rinoyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rinoyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rinoyy&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinoyy&layout=compact&theme=tokyonight) 
+## 💼 Professional Experience
 
----
-[![](https://komarev.com/ghpvc/?username=Rinoyy&icon=0&color=0)](https://visitcount.itsvg.in)
+Currently involved in developing a multi-tenant B2B Retail Platform that supports hierarchical business management across multiple roles:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* Super Admin Management
+* Merchant Management
+* Store Management
+* Role-Based Access Control (RBAC)
+* Business Profile Management
+* Inventory & Stock Management
+* Dashboard & Reporting Systems
+* Cloud File Management (AWS S3)
+* REST API Development & Integration
+
+The platform enables centralized management of merchants, stores, users, and business operations while maintaining secure tenant isolation and scalable architecture.
+
+## 🔭 Currently Working On
+
+* Building scalable web and mobile applications
+* Developing B2B business management systems
+* Designing maintainable system architectures
+* Creating production-ready solutions
+
+## 🤝 Open to Collaborate On
+
+* Flutter Applications
+* React & TypeScript Projects
+* Laravel & Livewire Applications
+* Open Source Projects
+* Business Management Systems
+* Full-Stack Web Applications
+
+## 🧠 Currently Improving
+
+* System Design
+* Software Architecture
+* Backend Performance Optimization
+* API Scalability
+* Cloud Infrastructure & DevOps
+* Production-Ready Development Practices
+
+## 💬 Ask Me About
+
+### Frontend
+
+* Flutter
+* React
+* TypeScript
+* Tailwind CSS
+* State Management
+
+### Backend
+
+* Laravel
+* Livewire
+* Express.js
+* REST API Design
+* MySQL
+* Prisma ORM
+
+### Infrastructure & Tools
+
+* AWS S3
+* Docker
+* Grafana
+* Prometheus
+* Git & GitHub
+* Postman
+
+## ⚡ Fun Fact
+
+I enjoy transforming complex business requirements into simple, scalable, and maintainable software solutions—from frontend interfaces to backend services and cloud infrastructure.
